@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLender", "VideoLender\VideoLender.csproj", "{ECF8F900-ADC9-44E2-BEB3-446CEF285C15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF8F900-ADC9-44E2-BEB3-446CEF285C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF8F900-ADC9-44E2-BEB3-446CEF285C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF8F900-ADC9-44E2-BEB3-446CEF285C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF8F900-ADC9-44E2-BEB3-446CEF285C15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00B9E35-0931-448C-B4FE-ED4C1F7FE686}
+	EndGlobalSection
+EndGlobal
