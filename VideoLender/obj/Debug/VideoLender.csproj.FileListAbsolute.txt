@@ -126,3 +126,4 @@ C:\Users\stysi\Source\Repos\VideoLender\VideoLender\obj\Debug\VideoLender.csproj
 C:\Users\stysi\Source\Repos\VideoLender\VideoLender\obj\Debug\VideoLender.Migrations.movies.resources
 C:\Users\stysi\Source\Repos\VideoLender\VideoLender\obj\Debug\VideoLender.Migrations.MoviesAndLends.resources
 C:\Users\stysi\Source\Repos\VideoLender\VideoLender\obj\Debug\VideoLender.Migrations.updateModel.resources
+C:\Users\stysi\Source\Repos\VideoLender\VideoLender\obj\Debug\VideoLender.Migrations.updatemovies.resources

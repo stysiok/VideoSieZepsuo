@@ -190,6 +190,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\DataController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LendsController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -212,6 +213,10 @@
     <Compile Include="Migrations\201805031042146_updateModel.cs" />
     <Compile Include="Migrations\201805031042146_updateModel.Designer.cs">
       <DependentUpon>201805031042146_updateModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201805051344029_update-movies.cs" />
+    <Compile Include="Migrations\201805051344029_update-movies.Designer.cs">
+      <DependentUpon>201805051344029_update-movies.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -333,6 +338,7 @@
     <Content Include="Views\Lends\Details.cshtml" />
     <Content Include="Views\Lends\Edit.cshtml" />
     <Content Include="Views\Lends\Index.cshtml" />
+    <Content Include="Views\Data\GetMovies.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -360,6 +366,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201805031042146_updateModel.resx">
       <DependentUpon>201805031042146_updateModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805051344029_update-movies.resx">
+      <DependentUpon>201805051344029_update-movies.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
